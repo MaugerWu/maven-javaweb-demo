@@ -1,2 +1,2 @@
 # maven-javaweb-demo
-Java Web Maven Demo
+JavaWeb Maven Demo
